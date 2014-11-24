@@ -5,7 +5,7 @@
 // function. It's far from optimal, as Developer-X has shown here:
 // 		http://developer-x.ru/2014/11/how-digitalwrite-works/
 //
-// He suggests that just writing to PORTD is faster and easier.
+// He suggests that just writing to PORTx is faster and easier.
 // By using rFDW you can have best of both worlds, as you're essentially just
 // doing this--writing to PORTwhatever.
 //
